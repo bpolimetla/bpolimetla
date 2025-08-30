@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.polimetla.com" target="_blank">Website</a> •
+  <a href="https://polimetla.com" target="_blank">Website</a> •
   <a href="mailto:bpolimetla@gmail.com">Email</a> •
 </p>
 
@@ -47,7 +47,7 @@
 
 ### 🗂️ Repos
 
-**Most of my work** is hosted in **70+ private repositories**.  
+**Most of my work** is hosted in **60+ private repositories**.  
 Please **reach out** if you’d like to see specific **demos** or **architecture artifacts**.  
 
   
